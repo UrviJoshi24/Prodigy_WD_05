@@ -29,7 +29,7 @@ This repository contains the code for a Weather App created as part of the Prodi
 3. Enter a location in the input field and click "Get Weather" to fetch and display weather information.
 
 ## Preview
-![Weather App Preview](url-to-screenshot-or-gif)
+![Weather App Preview](https://github.com/UrviJoshi24/Prodigy_WD_05/blob/main/Screenshot%202023-12-21%20201417.png)
 
 ## Acknowledgments
 
